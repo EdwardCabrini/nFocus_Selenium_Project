@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EdwardCabrini\\OneDrive - nFocus Limited\\Desktop\\nfocus Project\\uk.co.edgewordstraining@nfocus.edward.cabrini\\uk.co.edgewordstraining.nfocus.edward.cabrini.csproj": {}
+    "C:\\Users\\EdwardCabrini\\OneDrive - nFocus Limited\\Documents\\GitHub\\nFocus_Selenium_Project\\nfocus Project\\uk.co.edgewordstraining@nfocus.edward.cabrini\\uk.co.edgewordstraining.nfocus.edward.cabrini.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EdwardCabrini\\OneDrive - nFocus Limited\\Desktop\\nfocus Project\\uk.co.edgewordstraining@nfocus.edward.cabrini\\uk.co.edgewordstraining.nfocus.edward.cabrini.csproj": {
+    "C:\\Users\\EdwardCabrini\\OneDrive - nFocus Limited\\Documents\\GitHub\\nFocus_Selenium_Project\\nfocus Project\\uk.co.edgewordstraining@nfocus.edward.cabrini\\uk.co.edgewordstraining.nfocus.edward.cabrini.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EdwardCabrini\\OneDrive - nFocus Limited\\Desktop\\nfocus Project\\uk.co.edgewordstraining@nfocus.edward.cabrini\\uk.co.edgewordstraining.nfocus.edward.cabrini.csproj",
+        "projectUniqueName": "C:\\Users\\EdwardCabrini\\OneDrive - nFocus Limited\\Documents\\GitHub\\nFocus_Selenium_Project\\nfocus Project\\uk.co.edgewordstraining@nfocus.edward.cabrini\\uk.co.edgewordstraining.nfocus.edward.cabrini.csproj",
         "projectName": "uk.co.edgewordstraining.nfocus.edward.cabrini",
-        "projectPath": "C:\\Users\\EdwardCabrini\\OneDrive - nFocus Limited\\Desktop\\nfocus Project\\uk.co.edgewordstraining@nfocus.edward.cabrini\\uk.co.edgewordstraining.nfocus.edward.cabrini.csproj",
+        "projectPath": "C:\\Users\\EdwardCabrini\\OneDrive - nFocus Limited\\Documents\\GitHub\\nFocus_Selenium_Project\\nfocus Project\\uk.co.edgewordstraining@nfocus.edward.cabrini\\uk.co.edgewordstraining.nfocus.edward.cabrini.csproj",
         "packagesPath": "C:\\Users\\EdwardCabrini\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EdwardCabrini\\OneDrive - nFocus Limited\\Desktop\\nfocus Project\\uk.co.edgewordstraining@nfocus.edward.cabrini\\obj\\",
+        "outputPath": "C:\\Users\\EdwardCabrini\\OneDrive - nFocus Limited\\Documents\\GitHub\\nFocus_Selenium_Project\\nfocus Project\\uk.co.edgewordstraining@nfocus.edward.cabrini\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EdwardCabrini\\AppData\\Roaming\\NuGet\\NuGet.Config",

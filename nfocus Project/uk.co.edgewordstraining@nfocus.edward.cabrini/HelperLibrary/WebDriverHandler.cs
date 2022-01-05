@@ -4,6 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static uk.co.edgewordstraining.nfocus.edward.cabrini.Helper_Library.WebDriverHandler;
+using NUnit.Framework;
+using OpenQA.Selenium;
+using OpenQA.Selenium.Support;
+using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.Interactions;
+using OpenQA.Selenium.Edge;
+using OpenQA.Selenium.Firefox;
 
 namespace uk.co.edgewordstraining.nfocus.edward.cabrini.Helper_Library
 {
